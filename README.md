@@ -4,9 +4,12 @@ Since ~2017 I've been interested in Data Science, Machine Learning, Analytics an
 Would like to work on:
 
 By tasks:
+- analytics/marketing
+- algos
 - parsers
 - routers
 - codecs
+- ofc, just development
 
 By industries:
 - 👩‍💼👨‍💼 job boards
